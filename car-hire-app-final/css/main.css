@@ -1,0 +1,87 @@
+#home{
+  text-decoration: none;
+}
+.section-search input{
+  padding: 3px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-3x{
+  margin: 5px 10px;
+}
+
+.btn-primary{
+  background-color: #f06d06;
+  border-radius: 5px;
+}
+
+#inputBorder, .inputBorder{
+  border: 2px solid teal;
+  border-radius: 5px;
+  /* color: #f06d06; */
+  color: #005959;
+}
+
+#firstModal{
+  border-radius: 15px;
+  font-weight: bold;
+  color: teal;
+}
+
+#secondModal{
+  border-radius: 15px;
+  font-weight: bold;
+  color: teal;
+}
+
+#thirdModal{
+  border-radius: 15px;
+  font-weight: bold;
+  color: teal;
+}
+
+.close{
+  color: #f06d06;
+  border-radius: 5px;
+}
+
+.close:hover {
+  background-color: teal;
+  color: #fff;
+}
+
+.questions{
+  color: #f06d06;
+  font-weight: bold;
+}
+
+.para{
+  text-align: center;
+  color: #f06d06;
+  font-style: italic;
+}
+
+.card{
+  color: teal;
+}
+
+.opacity1 {
+  opacity: 1 !important;
+}
+
+.center{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+/* jquery styling */
+#motorbike, #small-car, #large-car, #motor-home {
+      display: none;
+    }
+
+	#nextModal{
+
+	}
